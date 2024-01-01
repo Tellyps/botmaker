@@ -40,7 +40,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/PS_MOVIES11)</code>
+<code>[Button Text](buttonurl:https://t.me/+ia-0G6EvH5QwNjNl)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
